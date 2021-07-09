@@ -7,7 +7,7 @@ export default {
 	// }
   ],
 
-  llistaPesonalUbicacio: []
+  llistaPersonalTrax: []
   // llistesBlanques: [],
   // llistaTrax: [],
   // assignacions: [],

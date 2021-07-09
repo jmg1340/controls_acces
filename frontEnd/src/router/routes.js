@@ -15,19 +15,12 @@ const routes = [
     ]
   },
   {
-    path: '/ubicacions',
-    component: () => import('layouts/MyLayout.vue'),
-    children: [
-      { path: '', component: () => import('pages/pUbicacionsTrax.vue') }
-    ]
-  },
-  {
     path: '/trax',
     component: () => import('layouts/MyLayout.vue'),
     children: [
-      { path: '', component: () => import('pages/trax.vue') }
+      { path: '', component: () => import('pages/pTrax.vue') }
     ]
-  },
+  }
 ]
 
 // Always leave this as last one

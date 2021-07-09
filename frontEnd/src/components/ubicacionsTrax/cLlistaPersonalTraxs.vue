@@ -2,7 +2,7 @@
 
     <q-table
       title="Personal assignat"
-      :data="personalUbicacioTarjeta"
+      :data="personalTraxTarjeta"
       :columns="columns"
       row-key="lloc"
 
@@ -28,13 +28,13 @@ export default {
 
   name: 'cllistaPersonalUbicacions',
 
-  props:['ubicacio'],
+  props:['lloc'],
 
   created: function(){
-
-    this.actLlistarPersonalSegonsUbicacio(this.ubicacio)
+		console.log("LLOC:", this.lloc)
+    this.actLlistarPersonalSegonsTrax(this.lloc)
     .then((llistaPersonalUbicacio) => {
-      console.log("action 'actLlistarPersonalUbicacions completada\nllistaPersonalUbicacio: " + JSON.stringify(llistaPersonalUbicacio));
+      console.log("action 'actLlistarPersonalTRAX completada\nllistaPersonalTRAX: " + JSON.stringify(llistaPersonalUbicacio));
       this.personalAssignat = llistaPersonalUbicacio;
     })
     .catch(function(error){
@@ -91,15 +91,15 @@ export default {
 
   computed: {
     ...mapState({
-      personalUbicacio: state => state.objModulPersonal.llistaPesonalUbicacio
+      personalTrax: state => state.objModulPersonal.llistaPersonalTrax
     }),
 
-    personalUbicacioTarjeta: function() {
+    personalTraxTarjeta: function() {
       let array = [];
-      for(let i=0; i<this.personalUbicacio.length; i++) {
+      for(let i=0; i<this.personalTrax.length; i++) {
 
-        let obj = this.personalUbicacio[i];
-        obj.codiTarjeta = this.personalUbicacio[i].numero.toString().padStart(6,'0') + "00"
+        let obj = this.personalTrax[i];
+        obj.codiTarjeta = this.personalTrax[i].numero.toString().padStart(6,'0') + "00"
         array.push(obj)
       }
 
@@ -110,7 +110,7 @@ export default {
 
   methods:{
     ...mapActions('objModulPersonal',[
-        'actLlistarPersonalSegonsUbicacio',
+        'actLlistarPersonalSegonsTrax',
     ]),
 
   }

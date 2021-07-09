@@ -12,11 +12,11 @@
 
 
         <q-card-section>
-          <cmp_Ubicacions 
-            :ubicacionsPersona="ubicAssignades_"
+          <cmp_Traxs 
+            :traxsPersona="traxAssignats_"
             @eventSeleccio="accioRecepcioSeleccio"
           >
-          </cmp_Ubicacions>
+          </cmp_Traxs>
         </q-card-section>
 
 
@@ -32,22 +32,22 @@
 
 <script>
 import { mapState, mapActions} from 'vuex';
-import cmp_Ubicacions from "./cUbicacionsAssignades";
+import cmp_Traxs from "./cTraxsAssignats";
 
 export default {
   // name: 'ComponentName',
   props: ['objPersonaPag'],  // objecte amb tota la informació de la persona que editem. Cas de que sigui un nou usuari el valor sera 'null'
 
-  components:{cmp_Ubicacions},
+  components:{cmp_Traxs},
 
   beforeMount () {
     console.log("Estic a BEFOREMOUNT del cFormPersonal");
-  	
+  	console.log(this.objPersonaPag)
     // En el cas de que estiguem modificant informacio d'una persona, establim els valors a les variables locals del component
     if (this.objPersonaPag != null) {
     	this.nom_    = this.objPersonaPag.nom,
     	this.numero_ = this.objPersonaPag.numero,
-      this.ubicAssignades_ = this.objPersonaPag.ubicacions
+      this.traxAssignats_ = this.objPersonaPag.traxs
   	}
   },
 
@@ -55,7 +55,7 @@ export default {
     return {
     	nom_: '',
     	numero_: '',
-      ubicAssignades_: []
+      traxAssignats_: []
     }
   },
 
@@ -67,16 +67,16 @@ export default {
 
     /**
       METODE: accioRecepcioSeleccio
-      FUNCIONALITAT: modifica les ubicacions de la persona (variable local ubicAssignades d'aquest component) conforme es marquin o desmarquin en el component cUbicacionsAssignades
+      FUNCIONALITAT: modifica els traxs de la persona (variable local ubicAssignades d'aquest component) conforme es marquin o desmarquin en el component cTraxsAssignades
     */
     accioRecepcioSeleccio: function(arrSeleccio){
       console.log("estic al method ACCIORECEPCIOSELECCIO !!")
-      this.ubicAssignades_ = arrSeleccio;
+      this.traxAssingats_ = arrSeleccio;
     },
 
   	onOKClick: function () {
 
-      console.log("rececpio strings ubicacions seleccionades: " + this.ubicAssignades_)
+      console.log("rececpio strings traxs seleccionats: " + this.traxAssingats_)
 
       if ( this.numero_.length == 0  ||  this.nom_.length == 0) {
         this.$q.dialog({
@@ -94,7 +94,7 @@ export default {
       let objPersona = {
         numero: this.numero_,
         nom: this.nom_,
-        ubicacions: this.ubicAssignades_
+        traxs: this.traxAssingats_
         //cognoms: this.cognom_
       };
 
@@ -112,7 +112,7 @@ export default {
           console.log("this.numero = " + this.numero);
   	  		this.numero_ = null;
   	  		this.nom_    = null;
-          this.ubicAssignades_ = []
+          this.traxAssingats_ = []
   	  		//this.cognom_ = null;
 
     			this.$emit('eventMostrar', {queMostrar: 'llista', objPers: null} );
@@ -143,7 +143,7 @@ export default {
           
           this.numero_ = null;
           this.nom_    = null;
-          this.ubicAssignades_ = []
+          this.traxAssingats_ = []
           //this.cognom_ = null;
 
           this.$emit('eventMostrar', {queMostrar: 'llista', objPers: null} );

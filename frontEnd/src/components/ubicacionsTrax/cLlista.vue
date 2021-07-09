@@ -1,7 +1,7 @@
 <template>
   <div class="row"> 
     <q-table
-      title="Ubicacions TRAX"
+      title="TRAX"
       :data="llista"
       :columns="columns"
       row-key="_id"
@@ -16,7 +16,7 @@
           icon="add"
           align="center" 
           class="q-mr-md"
-          @click="obrirFormulariNovaUbicacio" />
+          @click="obrirFormulariNovaTrax" />
         
       </template>
  
@@ -33,7 +33,7 @@
 
 
         <q-td key="id" :props="props" >
-          <q-btn size="sm" round dense color="warning" icon="create" @click="obrirFormulariEdicioUbicacio(props.row)" class="q-mr-md" />
+          <q-btn size="sm" round dense color="warning" icon="create" @click="obrirFormulariEdicioTrax(props.row)" class="q-mr-md" />
           <q-btn size="sm" round dense color="negative" icon="delete" @click="eliminar(props.row)"  />
         </q-td>
       
@@ -45,14 +45,14 @@
 
 <script>
 import { mapState, mapActions} from 'vuex';
-// import cmp_formUbicacio from "components/personal/cFormUbicacio";
+// import cmp_formTrax from "components/personal/cFormTrax";
 
 export default {
   // name: 'ComponentName',
   
   created: function(){
     console.log("Estic a CREATE del component cLlista")
-    this.actLlistarUbicacions()
+    this.actLlistarTraxs()
   },
 
   //props: ['mostrar'],
@@ -102,21 +102,21 @@ export default {
   },
 
   methods:{
-    ...mapActions('objModulUbicacions',[
-        'actLlistarUbicacions',
-        'actEliminarUbicacio'
+    ...mapActions('objModulTrax',[
+        'actLlistarTraxs',
+        'actEliminarTrax'
     ]),
 
-    eliminar: function (objUbicacioEliminar) {
+    eliminar: function (objTraxEliminar) {
 
       this.$q.dialog({
         title: 'Confirmar',
-        message: 'Eliminar ' + objUbicacioEliminar.lloc.toUpperCase() + ' ?',
+        message: 'Eliminar ' + objTraxEliminar.lloc.toUpperCase() + ' ?',
         cancel: true,
         persistent: true
       }).onOk(() => {
         
-        this.actEliminarUbicacio(objUbicacioEliminar)
+        this.actEliminarTrax(objTraxEliminar)
         .then( (registreEliminat) => {
           this.$q.notify('Registre eliminat: \n' + JSON.stringify(registreEliminat));
           console.log("Registre modificat: " + registreEliminat);
@@ -148,13 +148,13 @@ export default {
     },
 
 
-    obrirFormulariEdicioUbicacio: function (objUbicacioEditar) {
-      this.$emit('eventMostrar', {queMostrar: 'formulari', objUbic: objUbicacioEditar});
+    obrirFormulariEdicioTrax: function (objTraxEditar) {
+      this.$emit('eventMostrar', {queMostrar: 'formulari', objTrax: objTraxEditar});
     },
 
 
-    obrirFormulariNovaUbicacio: function() {
-     this.$emit('eventMostrar', {queMostrar: 'formulari', objUbic: null});
+    obrirFormulariNovaTrax: function() {
+     this.$emit('eventMostrar', {queMostrar: 'formulari', objTrax: null});
     },
 
 
@@ -168,7 +168,7 @@ export default {
 
   computed: {
     ...mapState({
-      llista: state => state.objModulUbicacions.llistaUbicacions
+      llista: state => state.objModulTrax.llistaTraxs
     })
   },
 

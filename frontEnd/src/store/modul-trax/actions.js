@@ -4,29 +4,25 @@ import Vue from 'vue';
 
 /**
 CARREGA DE ARRAYS DE LA BDD 
-Carrega de array "llistesUbicacio", "llistesBlanques", "assignacions" i "llistaTrax"
+Carrega de array "llistesTrax", "llistesBlanques", "assignacions" i "llistaTrax"
 */
 
-export function actLlistarUbicacions(context) {
-	//console.log("modul UBICACIONS action 'actLlistarUbicacions' FORA DE LA PROMESA");
+export function actLlistarTraxs(context) {
+	//console.log("modul UBICACIONS action 'actLlistarTraxs' FORA DE LA PROMESA");
 	
 	let promise = new Promise( (resolve, reject) => {
-		//console.log("modul UBICACIONS action 'actLlistarUbicacions' DINS DE LA PROMESA");
 		Vue.prototype.$axios({
 		  method: 'get',
-		  url: '/ubicacions',
+		  url: '/trax',
 		})
 		.then((response) => {
+			console.log("modul TRAX action 'actLlistarTRAXs' RESOLVE");
+			console.log(response.data.trax)
+			context.commit("mutLlistarTraxs", response.data.trax);
 			resolve()
-			//console.log("modul UBICACIONS action 'actLlistarUbicacions' RESOLVE");
-			context.commit("mutLlistarUbicacions", response.data.ubicacio);
-			// for (objUbicacio in response.llista) {
-			// 	context.commit("mutAfegirUbicacio", objUbicacio);
-			// }
-			
 		})
 		.catch(() => {
-			reject("actLlistarPersonal CATCH. Error: " + Error)
+			reject("actLlistarTraxs CATCH. Error: " + Error)
 		})
 
 	});
@@ -41,28 +37,28 @@ export function actLlistarUbicacions(context) {
 /**
 AFEGIR NOVA UBICACIO
 */
-export function actAfegirUbicacio (context, objUbicacio) {
-	console.log("ACTION afegirUbicacio. objUbicacio=" + objUbicacio);
+export function actAfegirTrax (context, objTrax) {
+	console.log("ACTION afegirTrax. objTrax=" + objTrax);
 
 	let promise = new Promise( (resolve, reject) => {
 
 
 		Vue.prototype.$axios({
 		  method: 'post',
-		  url: '/nouUbicacio',
-		  data: objUbicacio,
+		  url: '/nouTrax',
+		  data: objTrax,
 
 		})
 		.then((response) => {
 			//this.data = response.data
-			//console.log("OK actAfegirUbicacio" + JSON.stringify(response.data));
-			context.dispatch("actLlistarUbicacions");
+			//console.log("OK actAfegirTrax" + JSON.stringify(response.data));
+			context.dispatch("actLlistarTraxs");
 
 			resolve(JSON.stringify(response.data))
 			
 		})
 		.catch((error) => {
-			//console.log("error actAfegirUbicacio:\n" + error)
+			//console.log("error actAfegirTrax:\n" + error)
 			reject("Error a l'afegir registre:\n" + error);
 			// this.$q.notify({
 			// 	color: 'negative',
@@ -87,28 +83,28 @@ export function actAfegirUbicacio (context, objUbicacio) {
 /**
 MODIFICAR REGISTRE 
 */
-export function actModificarUbicacio (context, objUbicacio) {
-	console.log("ACTION modificarUbicacio. objUbicacio=" + objUbicacio);
+export function actModificarTrax (context, objTrax) {
+	console.log("ACTION modificarTrax. objTrax=" + objTrax);
 
 	let promise = new Promise( (resolve, reject) => {
 
 
 		Vue.prototype.$axios({
 		  method: 'put',
-		  url: '/modificarUbicacio/' + objUbicacio.id,
-		  data: objUbicacio,
+		  url: '/modificarTrax/' + objTrax.id,
+		  data: objTrax,
 
 		})
 		.then((response) => {
 			//this.data = response.data
-			//console.log("OK actAfegirUbicacio" + JSON.stringify(response.data));
-			context.dispatch("actLlistarUbicacions");
+			//console.log("OK actAfegirTrax" + JSON.stringify(response.data));
+			context.dispatch("actLlistarTraxs");
 
 			resolve(JSON.stringify(response.data))
 			
 		})
 		.catch((error) => {
-			//console.log("error actAfegirUbicacio:\n" + error)
+			//console.log("error actAfegirTrax:\n" + error)
 			reject("Error al modificar registre:\n" + error);
 			// this.$q.notify({
 			// 	color: 'negative',
@@ -131,28 +127,28 @@ export function actModificarUbicacio (context, objUbicacio) {
 /**
 ELIMINAR REGISTRE 
 */
-export function actEliminarUbicacio (context, objUbicacio) {
-	console.log("ACTION eliminarUbicacio. objUbicacio=" + JSON.stringify(objUbicacio));
+export function actEliminarTrax (context, objTrax) {
+	console.log("ACTION eliminarTrax. objTrax=" + JSON.stringify(objTrax));
 
 	let promise = new Promise( (resolve, reject) => {
 
 
 		Vue.prototype.$axios({
 		  method: 'delete',
-		  url: '/eliminarUbicacio/' + objUbicacio._id,
-		  data: objUbicacio,
+		  url: '/eliminarTrax/' + objTrax._id,
+		  data: objTrax,
 
 		})
 		.then((response) => {
 			//this.data = response.data
-			//console.log("OK actAfegirUbicacio" + JSON.stringify(response.data));
-			context.dispatch("actLlistarUbicacions");
+			//console.log("OK actAfegirTrax" + JSON.stringify(response.data));
+			context.dispatch("actLlistarTraxs");
 
 			resolve(JSON.stringify(response.data))
 			
 		})
 		.catch((error) => {
-			//console.log("error actAfegirUbicacio:\n" + error)
+			//console.log("error actAfegirTrax:\n" + error)
 			reject("Error al modificar registre:\n" + error);
 			// this.$q.notify({
 			// 	color: 'negative',

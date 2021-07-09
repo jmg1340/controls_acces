@@ -1,8 +1,8 @@
 <template>
 
     <q-table
-      title="Ubicacions assignades"
-      :data="ubicacions"
+      title="Trax assignats"
+      :data="traxs"
       :columns="columns"
       row-key="lloc"
 
@@ -30,16 +30,16 @@ import { mapState, mapActions} from 'vuex';
 
 export default {
 
-  name: 'cUbicacionsAssignades',
+  name: 'cTraxAssignats',
 
-  props:['ubicacionsPersona'],
+  props:['traxsPersona'],
 
   created: function(){
-    //console.log("Estic a CREATE del component cUbicacionsAssignades")
-    this.actLlistarUbicacions()
+    //console.log("Estic a CREATE del component cTraxAssignades")
+    this.actLlistarTraxs()
     .then(() => {
-      console.log("action 'actLlistarUbicacions completada");
-      this.marcarUbicacionsPersona()
+      console.log("action 'actLlistarTraxs' completada");
+      this.marcarTraxPersona()
     })
     .catch(function(error){
       console.log(error)
@@ -50,7 +50,7 @@ export default {
   data() {
     return {
 /*
-    	ubicacions_: [
+    	traxs_: [
     		{ lloc: "AAAAA", id_: 1},
     		{ lloc: "BBBBB", id_: 2},
     		{ lloc: "CCCCC", id_: 3},
@@ -83,40 +83,45 @@ export default {
 
   computed: {
     ...mapState({
-      ubicacions: state => state.objModulUbicacions.llistaUbicacions
+      traxs: state => state.objModulTrax.llistaTraxs
     })
   },
 
   methods:{
-    ...mapActions('objModulUbicacions',[
-        'actLlistarUbicacions',
+    ...mapActions('objModulTrax',[
+        'actLlistarTraxs',
     ]),
 
 
 
     /** 
-      METODE: marcarUbicacionsPersona
-      FUNCIONALITAT: al mostrar la llista de les ubicacions, marca automaticament les ubicacions que la persona te assignades (a MongoDB).
+      METODE: marcarTraxPersona
+      FUNCIONALITAT: al mostrar la llista de les traxs, marca automaticament les traxs que la persona te assignades (a MongoDB).
 
-      'ubicacions' es array d'objectes (cada ubicacio es un objecte) del tipus:
+      'traxs' es array d'objectes (cada ubicacio es un objecte) del tipus:
       __index:3
       __v:0
       _id:"5d14a376fe1974155da05090"
       carpeta:"T4"
       lloc:"Gran Hermano"
 
-      Per tant, per cada item (string) del array 'ubicacionsPersona' hem de trobar l'objecte del array 'ubicacions' segons la propietat lloc i afegir-lo al array 'selected'
+      Per tant, per cada item (string) del array 'traxsPersona' hem de trobar l'objecte del array 'traxs' segons la propietat lloc i afegir-lo al array 'selected'
     */
-    marcarUbicacionsPersona: function(){
+    marcarTraxPersona: function(){
 
-      // ubicacionsPersona: array de strings (ve del component cFormPersonal)
-      // ubicacions: array d'objectes de les ubicacions (state.objModulUbicacions.llistaUbicacions)
-      for(let i=0; i<this.ubicacionsPersona.length; i++){
-        for(let j=0; j<this.ubicacions.length; j++){
+      // traxsPersona: array de strings (ve del component cFormPersonal)
+      // traxs: array d'objectes de les traxs (state.objModulTrax.llistaTrax)
+
+			console.log("Estic a marcarTRAXPersona")
+			console.log(this.traxs)
+			console.log(this.traxsPersona)
+
+      for(let i=0; i<this.traxsPersona.length; i++){
+        for(let j=0; j<this.traxs.length; j++){
           
-          if(this.ubicacionsPersona[i] == this.ubicacions[j].lloc){
-            this.selected.push(this.ubicacions[j])
-            console.log('objecte marcat: ' + JSON.stringify(this.ubicacions[j]));
+          if(this.traxsPersona[i] == this.traxs[j].lloc){
+            this.selected.push(this.traxs[j])
+            console.log('objecte marcat: ' + JSON.stringify(this.traxs[j]));
           }
         
         }

@@ -13,7 +13,7 @@
     </cmp_llistaUbicacions>
     
     <cmp_formUbicacions 
-      :objUbicacioPag="objUbic"
+      :objTraxPag="objTrax"
       v-if="mostrar == 'formulari'" 
       v-on:eventMostrar="accioMostrar">
     </cmp_formUbicacions>
@@ -37,14 +37,14 @@ export default {
 		return {
 			//showAddForm: false
       mostrar: "llista",
-      objUbic: null
+      objTrax: null
 		}
 	},
 
 	methods:{
     accioMostrar: function (objPayload) {
       console.log("objPayload: " + JSON.stringify(objPayload));
-      this.objUbic = objPayload.objUbic;
+      this.objTrax = objPayload.objTrax;
       this.mostrar = objPayload.queMostrar;
       console.log("this.mostrar =  " + this.mostrar);
     

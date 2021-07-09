@@ -36,12 +36,10 @@
         <q-item to="/personal">
           <q-item-label>Personal</q-item-label>
         </q-item>
-        <q-item to="/ubicacions">
-          <q-item-label>Ubicacions dels TRAX</q-item-label>
-        </q-item>
         <q-item to="/trax">
           <q-item-label>TRAX</q-item-label>
         </q-item>
+
       </q-list>
     </q-drawer>
 

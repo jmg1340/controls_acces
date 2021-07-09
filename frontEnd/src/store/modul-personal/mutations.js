@@ -9,8 +9,8 @@ export function mutLlistarPersonal (context, llistaDeLaBDD) {
 	context.llistaPersonal = llistaDeLaBDD;
 };
 
-export function mutLlistarPersonalSegonsUbicacio (context, llistaDeLaBDD) {
+export function mutLlistarPersonalSegonsTrax (context, llistaDeLaBDD) {
 	//console.log("MUTATION llistarPersonal:\n" + JSON.stringify(llistaDeLaBDD));
-	context.llistaPesonalUbicacio = llistaDeLaBDD;
+	context.llistaPersonalTrax = llistaDeLaBDD;
 };
 

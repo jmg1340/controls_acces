@@ -1,5 +1,5 @@
 export default {
-  llistaUbicacions: [
+  llistaTraxs: [
 	// {
 	// 	numero: 123,
 	// 	cognom: "Miserachs Guix",

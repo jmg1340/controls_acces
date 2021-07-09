@@ -75,15 +75,15 @@ function getPersonals(req, res){
 	})	
 }
 
-function getPersonalSegonsUbicacio(req, res){
+function getPersonalSegonsTrax(req, res){
 	console.log("GET_PERSONAL_SEGONS_UBICACIO")
 	console.log("req.params.ubicacio: " + req.params.ubicacio);
 	
 	let objCriteri;
-	if (req.params.ubicacio == "Tothom (NO afegir personal)") {
+	if (req.params.trax == "Tothom (NO afegir personal)") {
 		objCriteri = {}
 	} else {
-		objCriteri = {ubicacions: req.params.ubicacio}
+		objCriteri = {traxs: req.params.trax}
 	}
 
 	Personal.find(
@@ -173,7 +173,7 @@ module.exports = {
 	operacioBulk,
 	getPersonal,
 	getPersonals,
-	getPersonalSegonsUbicacio,
+	getPersonalSegonsTrax,
 	updatePersonal,
 	newPersonal,
 	deletePersonal

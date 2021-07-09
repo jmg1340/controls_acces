@@ -6,7 +6,7 @@ const personalSchema = mongoose.Schema({
 	
 	numero: Number,
 	nom: String,
-	ubicacions: Array
+	traxs: Array
 	//cognoms: String
 
 })

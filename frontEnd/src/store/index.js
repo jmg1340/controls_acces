@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Vuex from 'vuex'
 
 import objModulPersonal from './modul-personal'
-import objModulUbicacions from './modul-ubicacionsTrax'
+import objModulTrax from './modul-trax'
 
 Vue.use(Vuex)
 
@@ -16,7 +16,7 @@ export default function (/* { ssrContext } */) {
     modules: {
       namespaced: true,
       objModulPersonal,
-      objModulUbicacions
+      objModulTrax
     }
   })
 

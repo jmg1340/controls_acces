@@ -23,17 +23,17 @@ export function actLlistarPersonal(context) {
 /**
 	Recupera de MongoDB llista del personal segons una ubicació
 */
-export function actLlistarPersonalSegonsUbicacio(context, ubicacio) {
+export function actLlistarPersonalSegonsTrax(context, trax) {
 
 	Vue.prototype.$axios({
 	  method: 'get',
-	  url: '/personalSegonsUbicacio/' + ubicacio,
+	  url: '/personalSegonsTrax/' + trax,
 	})
 	.then((response) => {
 		console.log("response: " + JSON.stringify(response));
-		context.commit("mutLlistarPersonalSegonsUbicacio", response.data.personal);	})
+		context.commit("mutLlistarPersonalSegonsTrax", response.data.personal);	})
 	.catch((Error) => {
-		alert("actLlistarPersonalSegonsUbicacio CATCH. Error: " + Error);
+		alert("actLlistarPersonalSegonsTrax CATCH. Error: " + Error);
 	})
 }
 

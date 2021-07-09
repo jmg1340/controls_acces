@@ -2,7 +2,7 @@
 
 const mongoose = require("mongoose")
 
-const ubicacionsSchema = mongoose.Schema({
+const traxSchema = mongoose.Schema({
 	lloc: {
 		type: String,
 /*		
@@ -26,4 +26,4 @@ const ubicacionsSchema = mongoose.Schema({
 })
 
 
-module.exports = mongoose.model("ubicacioTrax", ubicacionsSchema)
+module.exports = mongoose.model("trax", traxSchema)

@@ -17,20 +17,20 @@ const personalController = require ("../controllers/personal")
 router.post("/operacioBulk", personalController.operacioBulk)
 
 router.get("/personals", personalController.getPersonals)	// solicitud per mostrar tots els personals
-router.get("/personalSegonsUbicacio/:ubicacio", personalController.getPersonalSegonsUbicacio)	// solicitud per mostrar totes les persones que pertanyen a una ubicacio
+router.get("/personalSegonsTrax/:trax", personalController.getPersonalSegonsTrax)	// solicitud per mostrar totes les persones que pertanyen a una ubicacio
 router.get("/personal/:personalId", personalController.getPersonal) 		// solicitud per mostrar un personal
 router.post("/nouPersonal", personalController.newPersonal)		// solicitud per afegir un nou personal
 router.put("/modificarPersonal/:personalId", personalController.updatePersonal)	// solicitud per modificar dades d'un personal
 router.delete("/eliminarPersonal/:personalId", personalController.deletePersonal)
 
 
-const ubicacionsController = require ("../controllers/ubicacionsTrax")
+const ubicacionsController = require ("../controllers/trax")
 
-router.get("/ubicacions", ubicacionsController.getUbicacions)	// solicitud per mostrar tots les ubicacions
-router.get("/personal/:ubicacioId", ubicacionsController.getUbicacio) 		// solicitud per mostrar un Ubicacio
-router.post("/nouUbicacio/", ubicacionsController.newUbicacio)		// solicitud per afegir un nou Ubicacio
-router.put("/modificarUbicacio/:ubicacioId", ubicacionsController.updateUbicacio)	// solicitud per modificar dades d'un Ubicacio
-router.delete("/eliminarUbicacio/:ubicacioId", ubicacionsController.deleteUbicacio)
+router.get("/trax", ubicacionsController.getTraxs)	// solicitud per mostrar tots els Trax
+router.get("/personal/:traxId", ubicacionsController.getTrax) 		// solicitud per mostrar un Trax
+router.post("/nouTrax/", ubicacionsController.newTrax)		// solicitud per afegir un nou Trax
+router.put("/modificarTrax/:traxId", ubicacionsController.updateTrax)	// solicitud per modificar dades d'un Trax
+router.delete("/eliminarTrax/:traxId", ubicacionsController.deleteTrax)
 
 
 

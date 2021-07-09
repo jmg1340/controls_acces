@@ -14,7 +14,7 @@
 
 
         <q-card-section>
-          <cmp_PersonalUbicacio :ubicacio="lloc_"></cmp_PersonalUbicacio>
+          <cmp_PersonalTrax :lloc="lloc_"></cmp_PersonalTrax>
         </q-card-section>
 
 
@@ -30,20 +30,22 @@
 
 <script>
 import { mapState, mapActions} from 'vuex';
-import cmp_PersonalUbicacio from "./cLlistaPersonalUbicacions";
+import cmp_PersonalTrax from "./cLlistaPersonalTraxs";
 
 export default {
   // name: 'ComponentName',
-  components:{cmp_PersonalUbicacio},
+  components:{cmp_PersonalTrax},
 
-  props: ['objUbicacioPag'],
+  props: ['objTraxPag'],
 
   beforeMount () {
-    console.log("Estic a BEFOREMOUNT del cFormUbicacio");
-    console.log("objUbicacioPag: " + this.objUbicacioPag);
-  	if (this.objUbicacioPag != null) {
-      this.lloc_ = this.objUbicacioPag.lloc;
-      this.carpeta_ = this.objUbicacioPag.carpeta;
+    console.log("Estic a BEFOREMOUNT del cFormTrax");
+    console.log("objTraxPag:");
+    console.log(this.objTraxPag);
+		
+  	if (this.objTraxPag != null) {
+      this.lloc_ = this.objTraxPag.lloc;
+      this.carpeta_ = this.objTraxPag.carpeta;
   	}
   },
 
@@ -55,25 +57,25 @@ export default {
   },
 
   methods: {
-  	...mapActions('objModulUbicacions',[
-  	    'actAfegirUbicacio',
-        'actModificarUbicacio'
+  	...mapActions('objModulTrax',[
+  	    'actAfegirTrax',
+        'actModificarTrax'
   	]),
 
 
 
   	onOKClick: function () {
 
-      let objUbicacio = {
+      let objTrax = {
         lloc: this.lloc_,
         carpeta: this.carpeta_
       };
 
       
 
-      if ( this.objUbicacioPag == null ){
+      if ( this.objTraxPag == null ){
 
-    		this.actAfegirUbicacio(objUbicacio)
+    		this.actAfegirTrax(objTrax)
     		.then( (registreAfegit) => {
     			console.log("Registre afegit: " + registreAfegit);
   	  		
@@ -101,9 +103,9 @@ export default {
         
         console.log("BOTO 'OK' PER A MODIFICACIO REGISTRE");
 
-        objUbicacio.id = this.objUbicacioPag._id;
+        objTrax.id = this.objTraxPag._id;
 
-        this.actModificarUbicacio(objUbicacio)
+        this.actModificarTrax(objTrax)
         .then( (registreModificat) => {
           console.log("Registre modificat: " + registreModificat);
           
