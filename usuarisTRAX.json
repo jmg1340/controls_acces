@@ -1,0 +1,5509 @@
+[
+{
+	"numero": 838,
+	"nom": "REPISO ARJONA, ANTONIO",
+	"traxs": [
+		"Vestuari masculi",
+		"Sala reunions (planta -2)",
+		"Magatzem Hospital",
+		"Administracio"
+	]
+},
+{
+	"numero": 929,
+	"nom": "PORTIS ESPINOSA, M.TERESA",
+	"traxs": [
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 963,
+	"nom": "MARTI LABORDA, EVELIO",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 968,
+	"nom": "SERRA PALLISA, JORGE",
+	"traxs": [
+	]
+},
+{
+	"numero": 1036,
+	"nom": "SANCHEZ ESTELLER, M. DOLORES",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1058,
+	"nom": "SAIZ MENESES, M. CARMEN",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1061,
+	"nom": "GARCIA PLANELL, M. VICTORIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1062,
+	"nom": "SAMA PUJOLAR, ALBERTA",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1069,
+	"nom": "FERRAN OLIVE, MIGUEL",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1080,
+	"nom": "GARCIA VEIGA, ANTONIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1085,
+	"nom": "MAZA ESCUDERO, ASUNCION",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1086,
+	"nom": "CAMPOS LUANCO , M. JOSE",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1098,
+	"nom": "ARAUJO ARCOS, M. LUZ",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1099,
+	"nom": "GARCIA CARBALLO, M. DOLORES",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1100,
+	"nom": "FORES RUPEREZ, RAMON",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1102,
+	"nom": "ROGER BERENGUER, LLUIS",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1113,
+	"nom": "CONESA HERNANDEZ, FRANCISCO",
+	"traxs": [
+		"Vestuari masculi",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1116,
+	"nom": "LABORDA GISBERT, M. SOLEDAD",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1135,
+	"nom": "FERNANDEZ SALAS, FRANCISCO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1142,
+	"nom": "MARTINEZ SOLA, MARGARITA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1151,
+	"nom": "CANALS MOLINS, ROSA M.",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1153,
+	"nom": "MAJO LLOBET, FCO. JAVIE",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1154,
+	"nom": "PONS JANER, EULALIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1155,
+	"nom": "MONTERO ZUÑIGA, BEATRIZ",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1159,
+	"nom": "FERRARO LIÑAN, ROCIO",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1162,
+	"nom": "TORRAS BARBA, JUAN",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1164,
+	"nom": "CHIESSA FERNANDEZ, BETTINA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1172,
+	"nom": "BOSCH AGUILA, MANUEL",
+	"traxs": [
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1177,
+	"nom": "COMELLAS ALABERN, JOSE FCO.",
+	"traxs": [
+		"Farmacia",
+		"Vestuari masculi",
+		"Histories Cliniques",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1182,
+	"nom": "MONTERO ZUÑIGA, MARGARITA",
+	"traxs": [
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1183,
+	"nom": "VICENTE BARCELO, M. PILAR",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1185,
+	"nom": "SOLA SISTACH, ESTHER",
+	"traxs": [
+		"Administracio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1188,
+	"nom": "LOPEZ MON, SOLEDAD",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1189,
+	"nom": "ZAMORANO ANTOLIN, LEONOR",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1199,
+	"nom": "DE ISASA, PILAR",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1200,
+	"nom": "COSTA VALLABRIGA, JOSE M.",
+	"traxs": [
+		"Magatzem Hospital",
+		"Vestuari masculi",
+		"Administracio"
+	]
+},
+{
+	"numero": 1205,
+	"nom": "SECO FERRAN, GLORIA",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Esterilitzacio",
+		"Quirofan",
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1209,
+	"nom": "GUERRERO DIAZ, ISABEL",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1211,
+	"nom": "DEL CASTILLO VIADAS, ENCARNA",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1218,
+	"nom": "SOLE HERNANDEZ, FERNANDO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1220,
+	"nom": "CAMUÑEZ PALOMO, M. CARMEN",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1225,
+	"nom": "BENITO CUESTA, ANA M.",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1229,
+	"nom": "SAINZ LOPEZ, JULIO",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1230,
+	"nom": "PRAT VALLRIBERA, ANTONIO",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Quirofan",
+		"Sala reunions (planta -2)",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 1232,
+	"nom": "SEGUI PERICAS, MARTA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1241,
+	"nom": "TRUNAS SERRA, ANGEL",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1242,
+	"nom": "TORNE SUNYE, CRISTINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1246,
+	"nom": "GOMBAU APARICIO, DOLORES",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1247,
+	"nom": "BROTONS CABEZAS, M. ANGELES",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1248,
+	"nom": "MOLINA SILVA, MARGARITA",
+	"traxs": [
+		"Quirofan",
+		"Radiologia",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1251,
+	"nom": "DOMINGUEZ FERNANDEZ, OSCAR",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1252,
+	"nom": "FERRER PONS, JOSE MARIA",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1254,
+	"nom": "MONTSENY BROTO, GEMMA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1260,
+	"nom": "POCIELLO MIRADA, CARLES",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1265,
+	"nom": "MORALES MONTOYA, MICAELA",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1268,
+	"nom": "BARRACHINA PEREZ, JOSE",
+	"traxs": [
+		"Vestuari masculi",
+		"Gran Hermano",
+		"Sala reunions (planta -2)",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1271,
+	"nom": "LOPEZ PRIETO, JOSE ELADI",
+	"traxs": [
+		"Radiologia",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1275,
+	"nom": "ROMERO TOCINO, ISABEL",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1277,
+	"nom": "FERRA MATEO, FRANCISCA",
+	"traxs": [
+		"Vestuari femeni",
+		"Magatzem Hospital"
+	]
+},
+{
+	"numero": 1278,
+	"nom": "SAN MARTIN RUIZ, ESCARLATA",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1288,
+	"nom": "LOPEZ MORENO, M. ISABEL",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1293,
+	"nom": "DIAZ VELA, ANGELES",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1304,
+	"nom": "CABRERO ROVIRA, ESTEBAN",
+	"traxs": [
+		"Vestuari masculi",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1305,
+	"nom": "GUERRERO BLANCO, MARTA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1306,
+	"nom": "HIDALGO LUCAS, JUAN LUIS",
+	"traxs": [
+		"Quirofan",
+		"Manteniment",
+		"Vestuari masculi",
+		"Parking Bicicletes",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1307,
+	"nom": "ESPINAL MANCHON, VICTORIANO",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1309,
+	"nom": "RUIZ SALCEDO, CANDIDO",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 1322,
+	"nom": "LLORENS PATAU, INMACULADA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1324,
+	"nom": "CALLEJA ABAD, MANUEL",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1325,
+	"nom": "ROSELL BARTRES, SANTIAGO",
+	"traxs": [
+	]
+},
+{
+	"numero": 1326,
+	"nom": "PACHECO RUIZ, ANTONIO",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1328,
+	"nom": "IZQUIERDO NOGUES, PASCUAL",
+	"traxs": [
+		"Vestuari masculi",
+		"Farmacia",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1330,
+	"nom": "HERRERA LUCEÑO, FRANCISCO",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Esterilitzacio",
+		"Manteniment",
+		"Vestuari femeni",
+		"Parking Bicicletes",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1331,
+	"nom": "CALATRAVA PETISME, XAVIER",
+	"traxs": [
+		"Informatica (sala servidors)",
+		"Sala informatica"
+	]
+},
+{
+	"numero": 1334,
+	"nom": "MOLLET ORTIZ, JOSE",
+	"traxs": [
+		"Vestuari masculi",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1336,
+	"nom": "FREIRE VERDEJO, CECILIO JA",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Parking Bicicletes",
+		"Vestuari masculi",
+		"Esterilitzacio",
+		"Manteniment",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1337,
+	"nom": "SABLOTNI S, HANS JOACH",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1340,
+	"nom": "MISERACHS GUIX, JORDI",
+	"traxs": [
+		"RMN (sala radiolegs)",
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Sala informatica",
+		"Informatica (sala servidors)",
+		"Quirofan",
+		"Sala reunions (planta -2)",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1341,
+	"nom": "CANELLES BUIRA, MARISOL",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1342,
+	"nom": "NIETO DEVESA, MARIA JOSE",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1343,
+	"nom": "MUÑIZ MOYA, MARIA",
+	"traxs": [
+		"Administracio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1345,
+	"nom": "BARRANCO AGUILERA, FRANCISCA",
+	"traxs": [
+		"Histories Cliniques",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1346,
+	"nom": "BENJUMEA GOMEZ, JOSE LUIS",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1347,
+	"nom": "ILLANES VAZQUEZ, NURIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Administracio",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1349,
+	"nom": "PEÑARROYA SEREROLS, ROSA MARIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1350,
+	"nom": "CATALAN SUÑE, MARTA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1351,
+	"nom": "ESCAMILLA BELIZON, NURIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1352,
+	"nom": "RUIZ RODRIGUEZ, TERESA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1353,
+	"nom": "SOLERA PEREZ, BENJAMIN",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1358,
+	"nom": "FERNANDEZ ORTIZ, JOSE",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio",
+		"Manteniment",
+		"Parking Bicicletes",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1359,
+	"nom": "GERENA TORDILLO, ANTONIO",
+	"traxs": [
+		"RMN (sala radiolegs)",
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio",
+		"Informatica (sala servidors)",
+		"Gran Hermano",
+		"Sala informatica",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 1363,
+	"nom": "ANIES ESCARTIN, XAVIER",
+	"traxs": [
+	]
+},
+{
+	"numero": 1364,
+	"nom": "CASTRO GARCIA, MARTA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1365,
+	"nom": "DELFA CALERO, AGUSTINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 1366,
+	"nom": "GALLARDO VILLARES, SANTIAGO",
+	"traxs": [
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 1368,
+	"nom": "TABERNE PEREZ, LAURA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1369,
+	"nom": "RONDA RIVERO, FELIX VICE",
+	"traxs": [
+		"Vestuari masculi",
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1370,
+	"nom": "VENTURA BAILA, MARTA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1371,
+	"nom": "SARSANEDAS CASTELLAN, EUGENIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1372,
+	"nom": "GOMEZ RODRIGUEZ, MARTA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 1373,
+	"nom": "TORRENTS ORRIT, ROSARIO",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 1374,
+	"nom": "SIMON MARTINEZ, CRISTINA",
+	"traxs": [
+		"Administracio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 2349,
+	"nom": "QUIROZ MARIN, LEONOR",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3004,
+	"nom": "IGLESIAS TRASERRA, JOSEP",
+	"traxs": [
+	]
+},
+{
+	"numero": 3012,
+	"nom": "RODRIGUEZ PEREZ, CARMEN",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3013,
+	"nom": "COSTAS HENRIQUEZ, MARIANGEL",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3048,
+	"nom": "HUERTAS RIOS, SANTOS",
+	"traxs": [
+	]
+},
+{
+	"numero": 3051,
+	"nom": "LINARES SALAS, CARLOS",
+	"traxs": [
+		"Vestuari masculi",
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 3127,
+	"nom": "MOSCARDO MARTINEZ, MIQUEL",
+	"traxs": [
+	]
+},
+{
+	"numero": 3144,
+	"nom": "FREIJO PEREZ, JAUME",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3148,
+	"nom": "MORELL RIERA, Teresa",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3150,
+	"nom": "CLOS BUSQUETS, FRANCESC XAVIER",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3159,
+	"nom": "BEL RAFECAS, Pilar",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3167,
+	"nom": "DALMAU COLL, ANTONIO",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano",
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3183,
+	"nom": "Bonamusa Mont, Antonio",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3184,
+	"nom": "PLANELL PIQUERAS, ANNA M.",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3185,
+	"nom": "CASTILLA GALLEGO, CONCEPCION",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3186,
+	"nom": "PLANELL PIQUERAS, JAUME",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3187,
+	"nom": "GIFREU SANCHEZ, Miguel",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3188,
+	"nom": "CASADEMUNT PORTA, ROSER",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 3189,
+	"nom": "SICILIA SARMIENTO, ANGEL",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3191,
+	"nom": "Olle Garcia, Concepcion",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3192,
+	"nom": "ABELLAN MIRALLES, CESAR",
+	"traxs": [
+		"Vestuari masculi",
+		"Gran Hermano",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3193,
+	"nom": "CASTILLA GALLEGO, JOSE LUIS",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3259,
+	"nom": "VAZQUEZ QUINTAS, MANUEL",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3267,
+	"nom": "DE LA MORA RAFART, PEDRO",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3279,
+	"nom": "Garcia Garcia, Francisca",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3280,
+	"nom": "RAVENTOS PAUCIREROL, JOAQUIN",
+	"traxs": [
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3281,
+	"nom": "SANCHEZ NAVARRO, SERGI",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 3282,
+	"nom": "QUIROS ZAMORANO, BEGOÑA NUR",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3302,
+	"nom": "CASAS GIMENO, JORDI",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 3336,
+	"nom": "SECULI PALACIOS, ALBERTO",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Sala reunions (planta -2)",
+		"Gran Hermano",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 3338,
+	"nom": "ENFEDAQUE PLANILLAS, ISABEL",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 3359,
+	"nom": "GONZALEZ HUGUET, FRANCESC XAVIER",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 3445,
+	"nom": "PANADES GELLA, XAVIER",
+	"traxs": [
+	]
+},
+{
+	"numero": 3509,
+	"nom": "PONS FIORI, FRANCESC",
+	"traxs": [
+	]
+},
+{
+	"numero": 3511,
+	"nom": "COBOS RODRIGUEZ, ANTONIO",
+	"traxs": [
+	]
+},
+{
+	"numero": 3683,
+	"nom": "OLLER CAMPMANY, RAMON",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 3754,
+	"nom": "ROVIRO PARAREDA, RAMON",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 3860,
+	"nom": "BERGILLOS GASION, Fernando",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 4003,
+	"nom": "CALVO SANZ, JORGE",
+	"traxs": [
+		"Vestuari masculi",
+		"Piscina RHB"
+	]
+},
+{
+	"numero": 4010,
+	"nom": "GOMEZ GUTIERREZ, JOSE ANTON",
+	"traxs": [
+	]
+},
+{
+	"numero": 4017,
+	"nom": "BALSELLS ROSELLO, MAGDALENA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 4037,
+	"nom": "PERRAMON LLADO, ANTONI",
+	"traxs": [
+	]
+},
+{
+	"numero": 4067,
+	"nom": "Fernandez Zaragoza, Juan Ramon",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 4070,
+	"nom": "RODRIGUEZ FERREIRA, MONTSERRAT",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 4108,
+	"nom": "FUENTES GIMENEZ, MONTSERRAT",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 4134,
+	"nom": "DIAZ ROMACHO, JESUS",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 4139,
+	"nom": "ESPLUGAS VIDAL, JOAN PAU",
+	"traxs": [
+	]
+},
+{
+	"numero": 4203,
+	"nom": "DOLS PRUNERA, MANUEL",
+	"traxs": [
+		"Magatzem Hospital",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 4212,
+	"nom": "MOLINOS ROSADO, FRANCISCO",
+	"traxs": [
+		"Administracio",
+		"Sala reunions (planta -2)",
+		"Vestuari masculi",
+		"Magatzem Hospital",
+		"Manteniment"
+	]
+},
+{
+	"numero": 4222,
+	"nom": "TORELLO VILAR, MANUEL",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Piscina RHB",
+		"Farmacia",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 4324,
+	"nom": "ARDEVOL CUESTA, JORGE",
+	"traxs": [
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari masculi",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 4408,
+	"nom": "PORTABELLA BLAVIA, FEDERICO",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 4454,
+	"nom": "FARRERES MILANINI, VICTOR",
+	"traxs": [
+	]
+},
+{
+	"numero": 4529,
+	"nom": "RODRIGUEZ VILARO, JUAN LUIS",
+	"traxs": [
+	]
+},
+{
+	"numero": 4760,
+	"nom": "TORRUELLA GUILA, LLUIS",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 4923,
+	"nom": "Martinez Martin, Sandra",
+	"traxs": [
+		"Administracio"
+	]
+},
+{
+	"numero": 4974,
+	"nom": "MANUBENS BERTRAN, XAVIER",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 4988,
+	"nom": "NEIRA RUBIO, Eva",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 5039,
+	"nom": "GARCIA VELA, RAQUEL",
+	"traxs": [
+		"Administracio"
+	]
+},
+{
+	"numero": 5071,
+	"nom": "ALFARO PUIG, Ricardo",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 5095,
+	"nom": "FERNANDEZ NAVARRO, Manel",
+	"traxs": [
+		"Esterilitzacio",
+		"Histories Cliniques",
+		"Gran Hermano",
+		"Farmacia",
+		"Manteniment",
+		"Radiologia",
+		"Quirofan",
+		"Administracio",
+		"Magatzem Hospital",
+		"RMN (sala radiolegs)",
+		"Sala reunions (planta -2)",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 5284,
+	"nom": "DUQUE MONTERO, MIGUEL ANGEL",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 5370,
+	"nom": "RIGUERA PUMARIÑO, ANGELES",
+	"traxs": [
+	]
+},
+{
+	"numero": 6055,
+	"nom": "VILCHEZ FERNANDEZ, EVA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6056,
+	"nom": "RAMOS NOYA, ABRAHAM",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6057,
+	"nom": "PIÑOL DASTIS, ELENA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6058,
+	"nom": "CARO MANSO, ANTONIA J",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6061,
+	"nom": "JANE BASSAS, MARIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6073,
+	"nom": "GIMENEZ PUIG, LLUIS",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6074,
+	"nom": "PLANAGUMA COMA, SANDRA",
+	"traxs": [
+		"Vestuari femeni",
+		"Piscina RHB"
+	]
+},
+{
+	"numero": 6083,
+	"nom": "DIEZ LORIENTE, ALICIA",
+	"traxs": [
+		"Radiologia",
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6097,
+	"nom": "SANZ PARADELL, SARA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6129,
+	"nom": "DE LUIS SUAREZ DE DE, JORGE",
+	"traxs": [
+		"Vestuari masculi",
+		"Esterilitzacio",
+		"Farmacia",
+		"Radiologia",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6132,
+	"nom": "COTS MARTINEZ, GEMMA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6144,
+	"nom": "MOGOLLON CASTELA, M.CARMEN",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6150,
+	"nom": "ALCARAZ JAIMES, TERESA DE",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6154,
+	"nom": "ESCOLAR MASAKOY, JUAN CARLO",
+	"traxs": [
+		"Quirofan",
+		"Histories Cliniques",
+		"Vestuari masculi",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6156,
+	"nom": "RIBA VIÑAS, Blanca",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6162,
+	"nom": "CARRETERO CRUZ, FRANCISCO",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari masculi",
+		"Farmacia",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 6183,
+	"nom": "PARDELL MARTI, IRENE",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6185,
+	"nom": "COT DEL VALLE, M. BELEN",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6186,
+	"nom": "MENDEZ ALVAREZ, GUILLERMO",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6188,
+	"nom": "CALATAYUD MASIP, MARTA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6189,
+	"nom": "GILBERT ARREDONDO, PEDRO J",
+	"traxs": [
+		"Vestuari masculi",
+		"Vestuari femeni",
+		"Informatica (sala servidors)",
+		"Sala informatica"
+	]
+},
+{
+	"numero": 6200,
+	"nom": "BRUALLA ORTIZ, MARTA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6257,
+	"nom": "PUIGGROS PUIG, XENIA",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6259,
+	"nom": "AZNAR JUNCA, ALEXANDRA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6307,
+	"nom": "LUPON SERAROLS, MERITXELL",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6334,
+	"nom": "PEREA GONZALEZ, MONTSERRAT",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6341,
+	"nom": "MATEU LORENZO, JUAN",
+	"traxs": [
+		"Farmacia",
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Quirofan",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 6344,
+	"nom": "CASTILLO RAMOS, PEDRO DAVI",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Parking Bicicletes",
+		"Vestuari masculi",
+		"Manteniment",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6372,
+	"nom": "SANCHEZ ORTEGA, ALICIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6374,
+	"nom": "GOMEZ HUERTAS, ANA MARIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6375,
+	"nom": "MONTENEGRO RIBERA, MARGARITA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6395,
+	"nom": "GENARO RODRIGUEZ, YOLANDA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Quirofan",
+		"Radiologia"
+	]
+},
+{
+	"numero": 6425,
+	"nom": "ESPUÑES MESTRES, ESTHER",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6440,
+	"nom": "CANO LUNA, RAQUEL",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6450,
+	"nom": "ALCAIDE ROBLES, M. LOURDES",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6454,
+	"nom": "RODRIGUEZ VELASCO, JUAN MIGUE",
+	"traxs": [
+		"Vestuari masculi",
+		"Vestuari femeni",
+		"Administracio",
+		"Magatzem Hospital",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6497,
+	"nom": "GOMEZ GUTIERREZ, Jesus",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6596,
+	"nom": "URGELES BARRANCO, MIREIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6613,
+	"nom": "ARAGON TORRES, REMEI",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6615,
+	"nom": "MARTINEZ COLOMERA, TRINIDAD",
+	"traxs": [
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6616,
+	"nom": "CARO MANSO, CAROLINA",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6669,
+	"nom": "ESTEVE NUNES, MARTA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6673,
+	"nom": "CEJAS BONILLA, SILVIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6680,
+	"nom": "CASTELLO GIL, GLORIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6692,
+	"nom": "SANTIN SOBRINO, CONSUELO",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6711,
+	"nom": "ALMIRALL GALBETE, JONATHAN",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 6766,
+	"nom": "FERNANDEZ CEBRIAN, GEMMA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6877,
+	"nom": "VIDAL FORTUNY, ELOINA",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6891,
+	"nom": "ORTIZ RAMOS, LAURA",
+	"traxs": [
+		"Quirofan",
+		"Sala reunions (planta -2)",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 6934,
+	"nom": "LERA GARRIDO, SILVIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6935,
+	"nom": "SANCHEZ BARRIOS, PILAR",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 6947,
+	"nom": "CHICA GALLEGO, ENCARNACIO",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 6964,
+	"nom": "MARIN GABARRO, Calos",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 7011,
+	"nom": "MARTINEZ ABAD, NATALIA",
+	"traxs": [
+		"Farmacia",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 7083,
+	"nom": "SOLER SANTANDREU, MIGUEL ANG",
+	"traxs": [
+		"Esterilitzacio",
+		"Sala reunions (planta -2)",
+		"Farmacia",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 7125,
+	"nom": "MORALES ALVAREZ, SONIA",
+	"traxs": [
+		"Quirofan",
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7133,
+	"nom": "SIERRA DOMINGO, VICENTE",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 7185,
+	"nom": "Serratusell Torregrosa, Immaculada",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7205,
+	"nom": "FREIXES GARCIA DANIEL",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 7305,
+	"nom": "RONCERO VIDAL, M. DEL MAR",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 7343,
+	"nom": "FORNES MARTINEZ, CARLES",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 7345,
+	"nom": "CORTADA MASSANA, MARTA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7351,
+	"nom": "EXPOSITO CUADRA, GEMMA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 7368,
+	"nom": "LABANDA JIMENO, CRISTINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 7396,
+	"nom": "LOPEZ RAMOS, LUIS ANTON",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 7452,
+	"nom": "RUIZ FERNANDEZ, NOELIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Sala reunions (planta -2)",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 7453,
+	"nom": "HINAREJOS LOPEZ, EVELINA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7486,
+	"nom": "CARRASCOSA GARCIA, VERONICA",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 7496,
+	"nom": "ARIAS PUIG, LAURA",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 7576,
+	"nom": "RODRIGUEZ TAPIAS, Alejandro",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 7609,
+	"nom": "GUTIERREZ NAHARRO, EVA M.",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7618,
+	"nom": "VILA VONIQUET, Meritxell",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7702,
+	"nom": "DE LA PEÑA PEREA. Leyre",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 7719,
+	"nom": "DIAZ GONZALEZ, JOSE LUIS",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Vestuari masculi",
+		"UCA"
+	]
+},
+{
+	"numero": 7862,
+	"nom": "LLUNA REIG, RAFAEL",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 7863,
+	"nom": "WYNEKEN ROBERT, SILVIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7914,
+	"nom": "PORTABELLA BLAVIA, M. JOSE",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 7942,
+	"nom": "MOMPART GARCIA, Sergi",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 8954,
+	"nom": "BORQUE ORTEGA, ANGEL",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 9028,
+	"nom": "OQUILLAS CASAS, YOLANDA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9033,
+	"nom": "GRANELL ESCOBAR, FERNANDO",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9036,
+	"nom": "MELGARES MARTIN, ESTRELLA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9124,
+	"nom": "ALCARAZ SALAS, ANTONIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 9306,
+	"nom": "REINA MONTERO, BEATRIZ",
+	"traxs": [
+		"Farmacia",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9325,
+	"nom": "VELASCO ROCA, MIGUEL",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 9479,
+	"nom": "ALCARAZ SALAS, M. TERESA",
+	"traxs": [
+		"Manteniment",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9480,
+	"nom": "VIDAL BERNAL, NATALIA",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9494,
+	"nom": "ASENSIO MEJIAS, JOSE MIGUE",
+	"traxs": [
+		"Magatzem Hospital",
+		"Quirofan",
+		"Administracio",
+		"Vestuari masculi",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9691,
+	"nom": "ELIAS GIMENEZ, JUAN CARLO",
+	"traxs": [
+		"Vestuari masculi",
+		"Radiologia"
+	]
+},
+{
+	"numero": 9693,
+	"nom": "GONZALEZ CALVO, M.SOLEDAD",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9702,
+	"nom": "JOSE MESAS, CARLES",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 9747,
+	"nom": "JUAREZ CASTELLO, JOSE M.",
+	"traxs": [
+		"Vestuari masculi",
+		"Farmacia",
+		"Esterilitzacio",
+		"Magatzem Hospital"
+	]
+},
+{
+	"numero": 9755,
+	"nom": "SERRA PEÑA, NURIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 9764,
+	"nom": "POCIELLO MIRALLES, CELIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9837,
+	"nom": "MELLADO ARGELICH, ALBERTO",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 9862,
+	"nom": "PEREZ CAÑABATE, FLORENTINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Piscina RHB"
+	]
+},
+{
+	"numero": 9864,
+	"nom": "GONZALEZ LLOPIS, RAUL",
+	"traxs": [
+		"Vestuari masculi",
+		"Histories Cliniques",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9898,
+	"nom": "TERUEL ORTEGA, JOAQUIN",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Administracio",
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Manteniment"
+	]
+},
+{
+	"numero": 9902,
+	"nom": "ROVIRA PIÑOL, MIREIA",
+	"traxs": [
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9937,
+	"nom": "INGERTO PALOMES, OLGA",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9938,
+	"nom": "FISAS MASFERRER, BLANCA",
+	"traxs": [
+		"Quirofan",
+		"Radiologia",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 9952,
+	"nom": "CHERTA ECHAURI, MARTA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 9959,
+	"nom": "ADORADOR RUIZ, NURIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9967,
+	"nom": "GOMEZ GRAELL, SUSANA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 9986,
+	"nom": "URDANGARIN ETXETXIQU, JAIONE",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 9989,
+	"nom": "BUENO MOLINA, RAUL",
+	"traxs": [
+		"Vestuari masculi",
+		"Radiologia"
+	]
+},
+{
+	"numero": 9999,
+	"nom": "Ascensor",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Radiologia",
+		"Esterilitzacio",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 10023,
+	"nom": "OLIVERAS CAPDET, JORDI",
+	"traxs": [
+	]
+},
+{
+	"numero": 10047,
+	"nom": "PEREZ CORTES, MONTSERRAT",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10078,
+	"nom": "UGALDE LLANOS, ISABEL",
+	"traxs": [
+		"Magatzem Hospital",
+		"Esterilitzacio",
+		"Manteniment",
+		"Gran Hermano",
+		"Histories Cliniques",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10149,
+	"nom": "ORTEGA ROBLEDILLO, VANESSA",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10163,
+	"nom": "IGLESIAS FREIRE, Jose Angel",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 10194,
+	"nom": "PAZ BERNALES, LIDA M.",
+	"traxs": [
+		"Vestuari femeni",
+		"Farmacia",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 10199,
+	"nom": "BARRAGAN GARCIA, DAVID",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 10207,
+	"nom": "EL KHATTABI IGLESIAS, Joseph",
+	"traxs": [
+	]
+},
+{
+	"numero": 10238,
+	"nom": "SALMERON PINTOS, JORGE",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 10242,
+	"nom": "SOLANO ALASTRUE, ANTONIO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 10243,
+	"nom": "SERRANO NAVARRO, M. AMPARO",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 10244,
+	"nom": "LLORENS ROGER, ISABEL",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10287,
+	"nom": "MUÑOZ PEREZ, Noelia",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 10355,
+	"nom": "VIVES BOIX, SUSANA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 10379,
+	"nom": "GALIMANY REDONDO, LUCRECIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10456,
+	"nom": "TUÑI JAULENT, NURIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10512,
+	"nom": "HIDALGO MARTINEZ, Monica",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10572,
+	"nom": "ESPUNY CABALLERO, Carolina",
+	"traxs": [
+		"UCA",
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 10703,
+	"nom": "GONZALEZ GARCIA, RAQUEL",
+	"traxs": [
+		"Esterilitzacio",
+		"Histories Cliniques",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10873,
+	"nom": "TOMAS PUIG, M. ROSER",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10879,
+	"nom": "PI SANS, M. ANGELES",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 10900,
+	"nom": "AYALA JOU, SONIA",
+	"traxs": [
+	]
+},
+{
+	"numero": 10934,
+	"nom": "URBANO VILLENA, SONIA M.",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 11020,
+	"nom": "DIAZ PEREZ, Pilar",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 11041,
+	"nom": "TORRES TUR, JOSE",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 11091,
+	"nom": "CODINA GRAÑO, DAVID",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 11193,
+	"nom": "MENENDEZ DALMAU, MIREIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 11214,
+	"nom": "CANO LUNA, VERONICA",
+	"traxs": [
+		"Esterilitzacio",
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 11434,
+	"nom": "PARISI LLARGUES, Xavier",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 11480,
+	"nom": "AMADOR GIL, SILVIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 11483,
+	"nom": "ORTEGA SILVA, AMPARO",
+	"traxs": [
+		"Vestuari femeni",
+		"Administracio"
+	]
+},
+{
+	"numero": 11516,
+	"nom": "VELEZ BELLO, JOAQUINA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 11631,
+	"nom": "RODRIGUEZ LUCAS, M. CARMEN",
+	"traxs": [
+		"Vestuari femeni",
+		"Histories Cliniques",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 11661,
+	"nom": "MORENO PERERA, M. CARMEN",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 11734,
+	"nom": "ARNEDO LLENA, Ruben",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 11804,
+	"nom": "DIAZ MORENO, ANTONIO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 11828,
+	"nom": "PIZARRO RODRIGUEZ, Diana",
+	"traxs": [
+		"Vestuari femeni",
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 11875,
+	"nom": "OLIVE EGEA, IRENE",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 11877,
+	"nom": "ESCOLA BENET, Anna",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 11900,
+	"nom": "ARNABAT ROIG, MARTA",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 11918,
+	"nom": "BASART LOLO, JOSEP",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 11971,
+	"nom": "PEDRAZA GALLARDO, M. DOLORES",
+	"traxs": [
+		"Quirofan",
+		"Farmacia",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 12028,
+	"nom": "MONTIEL ESTECHA, INGRID",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 12072,
+	"nom": "GALLEGO PEREZ, ALEJANDRO",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 12362,
+	"nom": "MARTIN SIERRA, Nuria",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 12374,
+	"nom": "VILARROIG CHRISTENSEN, Merce",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 12376,
+	"nom": "SAVONE, Gustavo Angel",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 12391,
+	"nom": "LUQUE RUIZ, Rafael",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Farmacia",
+		"Quirofan"
+	]
+},
+{
+	"numero": 12412,
+	"nom": "GOMEZ HUGUET, Eva",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 12498,
+	"nom": "GIL FUENTES, NURIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Farmacia",
+		"Quirofan"
+	]
+},
+{
+	"numero": 12652,
+	"nom": "ALFONSO ROMAN, LUCIA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 12663,
+	"nom": "PEREZ MOLERO, SONIA",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 12691,
+	"nom": "LOPEZ CEBALLO, ROSA MARIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 12727,
+	"nom": "TAPIO OVASKA, MIKKO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 12744,
+	"nom": "BARRAGAN REQUENA, YADIRA",
+	"traxs": [
+		"Vestuari femeni",
+		"Radiologia"
+	]
+},
+{
+	"numero": 12762,
+	"nom": "MERCADAL GENER, MIGUELINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Farmacia",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 12777,
+	"nom": "RUIZ SANJAUME, MONTSERRAT",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 12790,
+	"nom": "GOMEZ CALDERO, ANNA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 12794,
+	"nom": "GARCIA ZAFRA, ANNA",
+	"traxs": [
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 12853,
+	"nom": "ABELLAN, Paula",
+	"traxs": [
+		"Gran Hermano",
+		"Magatzem Hospital"
+	]
+},
+{
+	"numero": 12887,
+	"nom": "ALEGRE CAMUÑAS, GEMMA",
+	"traxs": [
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 12903,
+	"nom": "ROMERO FELIPE, Carmen",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 12907,
+	"nom": "MAESTRA MARTINEZ, EVA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 12934,
+	"nom": "MONTIEL MARTINEZ, CAROLINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 13315,
+	"nom": "CUCURELLA BLANCO, LAURA",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 13381,
+	"nom": "TENA CARTES, LAURA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 13416,
+	"nom": "SAVIN GRABIELA",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Quirofan",
+		"Radiologia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 13529,
+	"nom": "VILLALBA PEREZ, ANA M.",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 13545,
+	"nom": "MARTINEZ GARCIA, TANIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 13547,
+	"nom": "VENEGA NEVADO, LAURA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 13588,
+	"nom": "CATALAN FUENTES, ALICIA BELEN",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 13614,
+	"nom": "PEREZ MONTONYA, MARTA",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 13679,
+	"nom": "VERGES NAVARRO, ELISABET",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 13680,
+	"nom": "PLANCHART MONTPEO, JORDI",
+	"traxs": [
+		"Histories Cliniques",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 13785,
+	"nom": "NUÑEZ GUISADO, VALENTIN",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 13786,
+	"nom": "RUIZ ALEMANY, ALEXANDRA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 13804,
+	"nom": "HERRET LOPEZ, MAGDALENA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 14043,
+	"nom": "CAMPS LLUMA, ANNA",
+	"traxs": [
+		"Quirofan",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 14218,
+	"nom": "GARCIA ROJO, CAROLINA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14298,
+	"nom": "MARIA ANGULO ALONSO",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14350,
+	"nom": "PASTRANA GOÑI, DAVID",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 14444,
+	"nom": "MARTOS ALVAREZ, ESTHER",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14457,
+	"nom": "CANTERO LARA, CARMEN",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan",
+		"Farmacia"
+	]
+},
+{
+	"numero": 14478,
+	"nom": "GARCIA RELAT, NURIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14479,
+	"nom": "VALVERDE MORGADO, ELISABETH",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14483,
+	"nom": "FABREGAS CUEVAS, M. JOSE",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 14520,
+	"nom": "MENDEZ GARCIA, LORENA",
+	"traxs": [
+	]
+},
+{
+	"numero": 14545,
+	"nom": "FUENTES GARCIA, SUSANA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 14621,
+	"nom": "FRANCO GOMEZ, RAUL",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 14625,
+	"nom": "CALVO CERRADA, BEATRIZ",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 14633,
+	"nom": "SOTO, CARMEN",
+	"traxs": [
+		"Vestuari femeni",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 14652,
+	"nom": "URRA BRITO, NELSON",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 14681,
+	"nom": "GOMEZ CANO, MARIA GEORGINA",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 14694,
+	"nom": "BREA FURELOS, PATRICIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 14697,
+	"nom": "RUIZ SALAMANCA, EVA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14699,
+	"nom": "GARCIA TOMAS, INGRID",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14739,
+	"nom": "VARGAS-PRADA FIGUEROA, SERGIO",
+	"traxs": [
+		"Vestuari masculi",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 14789,
+	"nom": "EZQUERRA BOSCH, SERGI",
+	"traxs": [
+	]
+},
+{
+	"numero": 14813,
+	"nom": "DOMINGUEZ TORDERA, PATRICIA",
+	"traxs": [
+		"Farmacia",
+		"Sala reunions (planta -2)",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 14851,
+	"nom": "VARA ORTIZ, MARTA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 14858,
+	"nom": "GARCIA EGEA, SERGIO",
+	"traxs": [
+		"Magatzem Hospital",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 14981,
+	"nom": "VALLES NOGUERO, VICENTE",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 15064,
+	"nom": "Ruiz Soriano, J.I",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 15068,
+	"nom": "DIAZ PLENSA, MIREIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 15131,
+	"nom": "RUIZ MINGUEZ, TERESA",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 15159,
+	"nom": "ORDOÑEZ TORRES, ANA ROSA",
+	"traxs": [
+		"Farmacia",
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 15192,
+	"nom": "FERNANDEZ COLL, IRWING",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 15217,
+	"nom": "COSTA URRACA, ANDREA SONIA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 15360,
+	"nom": "GUARDIA CAÑADA, MANUEL",
+	"traxs": [
+		"Vestuari masculi",
+		"Sala reunions (planta -2)",
+		"Quirofan"
+	]
+},
+{
+	"numero": 15445,
+	"nom": "PLANCHART MONTPEO, Elisenda",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 15447,
+	"nom": "VERA REMON, ORIOL",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 15501,
+	"nom": "LEBRON RIQUELME, LAIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 15548,
+	"nom": "EZQUERRA SERRANO, M. JOSEFA",
+	"traxs": [
+		"Piscina RHB",
+		"Manteniment",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 15611,
+	"nom": "GALINDO, JAVIER",
+	"traxs": [
+	]
+},
+{
+	"numero": 15646,
+	"nom": "REDO GOMEZ DAVID",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 15667,
+	"nom": "GONZALEZ GONZALEZ, ESTHER",
+	"traxs": [
+		"Quirofan",
+		"Farmacia",
+		"Esterilitzacio",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 15692,
+	"nom": "VEGA GARCIA, JORDI",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 15709,
+	"nom": "MACEDO DO LAGO, Juliana Beti",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 15758,
+	"nom": "MATEOS MARTINEZ, YENESCA FELISA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 15784,
+	"nom": "MIGUEL CALM, MONTSERRAT",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan",
+		"Farmacia"
+	]
+},
+{
+	"numero": 15818,
+	"nom": "MARTIN PUIG, SAMIRA",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20039,
+	"nom": "TORRES VICENTE, MARC",
+	"traxs": [
+		"Vestuari masculi",
+		"UCA"
+	]
+},
+{
+	"numero": 20041,
+	"nom": "PONT GALLARDO, ALBA",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20043,
+	"nom": "Cordoba Pascual, Elisabeth",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 20049,
+	"nom": "VILAGUT MARTI, MIQUEL",
+	"traxs": [
+	]
+},
+{
+	"numero": 20069,
+	"nom": "LARRIPA GONZALEZ, mariana",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 20093,
+	"nom": "TORRES VICENTE, GISELA",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 20417,
+	"nom": "PRIETO LOPEZ, M. ANGELES",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20607,
+	"nom": "Siado Mosquera, Jose David",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 20623,
+	"nom": "ECHEVARRIA GUIBO, Jorge A.",
+	"traxs": [
+		"Vestuari masculi",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 20747,
+	"nom": "RAMAZZINI CASTRO, JOSE RODRIGO",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 20751,
+	"nom": "MANZANARES MARCO, elena maria",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 20753,
+	"nom": "QUINTERO RUIZ, VIVIANA DEL CARMEN",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 20781,
+	"nom": "FREIRE ABRIL, CRISTIAN",
+	"traxs": [
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20795,
+	"nom": "RONCAL, ALEXIS",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 20819,
+	"nom": "MAJO VISCASILLAS, XAVIER",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Farmacia",
+		"Histories Cliniques",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 20845,
+	"nom": "CEVALLOS, Juan",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 20849,
+	"nom": "GALINDO FORTES, CARLA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 20851,
+	"nom": "OSUNA GUERRERO, TAMARA",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20879,
+	"nom": "MORENO NAVAS, JUAN",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20915,
+	"nom": "PUÑAL ALCAZAR, JOSE M.",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 20939,
+	"nom": "DEGANO PARRA, SERGIO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 20951,
+	"nom": "JARA MARTIN, David",
+	"traxs": [
+		"Sala informatica"
+	]
+},
+{
+	"numero": 21041,
+	"nom": "SERRA MASANA, CAROLINA",
+	"traxs": [
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 21065,
+	"nom": "Botella Morral, Sergi",
+	"traxs": [
+		"Farmacia",
+		"Histories Cliniques",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 21149,
+	"nom": "VIÑAS COBOS, MELISA",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 21151,
+	"nom": "LUCAS MARTINEZ, Judith",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Farmacia"
+	]
+},
+{
+	"numero": 21211,
+	"nom": "lopez ojeda, Lidia",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 21267,
+	"nom": "DE MIGUEL AGUILERA, ANDREA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 21323,
+	"nom": "GARGALLO PANIELLO, NURIA",
+	"traxs": [
+	]
+},
+{
+	"numero": 21381,
+	"nom": "CARRILLO PONS, GRISELDA",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 21397,
+	"nom": "HERNANDEZ HERNANDEZ, Rafael Alejandro",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 21409,
+	"nom": "LOZANO DURAN, Hector",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 21417,
+	"nom": "PLANA TORA, Barbara",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 21435,
+	"nom": "MARTINEZ ALVAREZ, Felipe Ignacio",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 21459,
+	"nom": "RUBIO FERNANDEZ, PATRICIA",
+	"traxs": [
+		"Sala reunions (planta -2)",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 21505,
+	"nom": "GELDRES MARTINEZ, Llich Miguel",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 21509,
+	"nom": "Luna Martinez, Maria Jose",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Farmacia"
+	]
+},
+{
+	"numero": 21563,
+	"nom": "Amigo Amargos, Joan",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 21581,
+	"nom": "TUDO CASTELLA, ANA BEATRIZ",
+	"traxs": [
+		"Farmacia"
+	]
+},
+{
+	"numero": 21623,
+	"nom": "Aznnay Douiri, Tamimount",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 21641,
+	"nom": "SUÑE SEGALA, Sandra",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 21735,
+	"nom": "PASTOR RODRIGUEZ, Laura",
+	"traxs": [
+		"Administracio"
+	]
+},
+{
+	"numero": 21741,
+	"nom": "MOLINA BORDA, Aitor",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 21843,
+	"nom": "PINTO, Javier Alejandro",
+	"traxs": [
+		"RMN (sala radiolegs)",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 21845,
+	"nom": "REMON DE PRADO, PILAR",
+	"traxs": [
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 21867,
+	"nom": "GOMEZ MORALES ANTONIO",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 21979,
+	"nom": "LAVADO FLORES, IVAN",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 22039,
+	"nom": "MARONES FERRERIA, Marcel",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 22151,
+	"nom": "LUCAS MARTINEZ, JUDITH",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22163,
+	"nom": "ESTEBAN VALVERDE, Angela",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 22189,
+	"nom": "Chaverri Fierro Daniel",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 22207,
+	"nom": "CRIADO MARONNA, Carme",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 22389,
+	"nom": "MOLINA MELGARES, Cristina",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 22413,
+	"nom": "FERRER MUÑOZ, Cristian",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22421,
+	"nom": "FERRER MENDEZ, ANTONIO",
+	"traxs": [
+		"Histories Cliniques",
+		"Esterilitzacio",
+		"Magatzem Hospital",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 22473,
+	"nom": "ARIAS BAILE, Ahinoa",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Sala reunions (planta -2)",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 22475,
+	"nom": "PERET HERNANDEZ, Pablo",
+	"traxs": [
+		"Quirofan",
+		"Sala reunions (planta -2)",
+		"Vestuari masculi",
+		"Piscina RHB",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 22481,
+	"nom": "COELLO GUTIERREZ, Estefania",
+	"traxs": [
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 22513,
+	"nom": "Panadero Moncusi, Manuel",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 22521,
+	"nom": "FOLCH DELGADO, Laura",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 22543,
+	"nom": "GAVIRIA PARADA, Elena",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 22549,
+	"nom": "GASTON MOLINA, Carles Manel",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22555,
+	"nom": "BALMACEDA FRASELLE, Thierry",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 22557,
+	"nom": "Pedrol Pomerol, Montse",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22695,
+	"nom": "ALVAREZ VILCHEZ, Sara",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22783,
+	"nom": "LOBO ESCORIAL, Luis",
+	"traxs": [
+		"Vestuari masculi",
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 22787,
+	"nom": "RAVENTOS GRANE, Alex",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 22803,
+	"nom": "VIDAL SANJUAN, Maria",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22823,
+	"nom": "JURADO DOMENECH, Ruth",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 22837,
+	"nom": "CONTRERAS GONZALEZ, Axel",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 22983,
+	"nom": "FRAGA LLAVIA, Kilian",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23013,
+	"nom": "DEL RIO  MARTINEZ, Joel",
+	"traxs": [
+		"Farmacia",
+		"Quirofan",
+		"Vestuari masculi",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23053,
+	"nom": "Cuadra Cabezas, Aurora",
+	"traxs": [
+		"Histories Cliniques",
+		"Farmacia"
+	]
+},
+{
+	"numero": 23061,
+	"nom": "VILLARON HERNANDEZ, PABLO",
+	"traxs": [
+		"Farmacia"
+	]
+},
+{
+	"numero": 23063,
+	"nom": "CULEBRAS, Xavier",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23191,
+	"nom": "ROMERO RODRIGUEZ, Maria",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23235,
+	"nom": "RUIZ MARTIN, Elisa",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 23267,
+	"nom": "CARMONA, Ana",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23287,
+	"nom": "SAMANIEGO ALONSO, Raquel",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 23299,
+	"nom": "MONE CUEVAS, Pol",
+	"traxs": [
+		"Vestuari masculi",
+		"Piscina RHB"
+	]
+},
+{
+	"numero": 23311,
+	"nom": "NADALES PALACIOS, Jose",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni",
+		"Farmacia"
+	]
+},
+{
+	"numero": 23323,
+	"nom": "PEREZ PORTILLO, Veronica",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23331,
+	"nom": "DEL MORAL CARREÑO, Montserrat",
+	"traxs": [
+		"Farmacia",
+		"Vestuari femeni",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 23333,
+	"nom": "LITARDO ZAMORA, Oscar Armando",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23335,
+	"nom": "CLIVILLE MOLA, Mireia",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23355,
+	"nom": "PEREZ DELGADO, Ruben",
+	"traxs": [
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23373,
+	"nom": "NARANJO VIÑAS, Angeles",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23379,
+	"nom": "TRULLENQUE ILLANES, Jose M.",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Esterilitzacio",
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 23415,
+	"nom": "VIÑALS PARRON, Albert",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23447,
+	"nom": "GALLIFA CLAUSELL, Oriol",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23599,
+	"nom": "MUÑOZ CRUELLAS, Andrea",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Farmacia",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 23603,
+	"nom": "CORREA VAZQUEZ, Eva Alicia",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 23611,
+	"nom": "GARRIDO PEREZ, Santiago",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 23613,
+	"nom": "CASTILLO DOMINGUEZ, Ana",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 23623,
+	"nom": "ALTIMIRA DEL CASTILLO, Victor",
+	"traxs": [
+	]
+},
+{
+	"numero": 23701,
+	"nom": "Franco Ginocchio, Renzo Ram",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23705,
+	"nom": "COLOMBO MARQUEZ, Jose Ernesto",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 23715,
+	"nom": "LARROSA CARBONELL, Oscar",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23723,
+	"nom": "YUSTA ZATO, Jose Aurelio",
+	"traxs": [
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 23775,
+	"nom": "MARLET JORDANA, M. Teresa",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 23789,
+	"nom": "BARREIRO BERDHARDT, Delia",
+	"traxs": [
+		"Manteniment"
+	]
+},
+{
+	"numero": 23807,
+	"nom": "CARCELLER BENNET, Marta",
+	"traxs": [
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 23809,
+	"nom": "CRESPO ESPESO. Mario",
+	"traxs": [
+	]
+},
+{
+	"numero": 23861,
+	"nom": "HERRERA ROMERO, Tania",
+	"traxs": [
+		"Manteniment",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 23869,
+	"nom": "RIBO BONET, Cristina",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Gran Hermano",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 23877,
+	"nom": "BERLANGA DE MINGO, Daniel",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23891,
+	"nom": "GOMEZ FERNANDEZ, Anna",
+	"traxs": [
+		"Esterilitzacio",
+		"Vestuari femeni",
+		"Quirofan"
+	]
+},
+{
+	"numero": 23897,
+	"nom": "ORTIN SILVA, Judit",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23913,
+	"nom": "GOMEZ DE AMO, Eric",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 23935,
+	"nom": "BORRAS FERRARO, Xavier",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23951,
+	"nom": "Ouassima Benhaddou Ahidar",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 23953,
+	"nom": "CAÑADAS CALVO, Juan Francisco",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23971,
+	"nom": "JIMENEZ CABALLERO, Laura",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 23989,
+	"nom": "ORTEGA TOMAS, Raquel",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 23995,
+	"nom": "RAVENTOS GRANE, Laura Sangeeta",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24025,
+	"nom": "MARCOS SALIETTI, Judit",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24027,
+	"nom": "BADYINE EL JAMALI, Imane",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24047,
+	"nom": "WILHELMINA BARNEVELD, Pepita",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24147,
+	"nom": "CARRERAS MERCADE, Victor",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24157,
+	"nom": "BALLESTER ASENSIO, Francesca",
+	"traxs": [
+		"Farmacia"
+	]
+},
+{
+	"numero": 24227,
+	"nom": "CONTRERAS CHACON, Rocio",
+	"traxs": [
+		"Vestuari femeni",
+		"Quirofan",
+		"RMN (sala radiolegs)"
+	]
+},
+{
+	"numero": 24231,
+	"nom": "CORRALES CRUZ, Andres",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24233,
+	"nom": "GÜERRI FERNANDEZ, Robert",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24295,
+	"nom": "PUÑAL ALCAZAR, Cristina",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24361,
+	"nom": "MARTINEZ FARRAN, Edgard",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24369,
+	"nom": "TOLRA CAMPANYA, Mariona",
+	"traxs": [
+		"Piscina RHB",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 24501,
+	"nom": "Lozano Freixas, David",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24577,
+	"nom": "LOZANO MARIN, Raquel",
+	"traxs": [
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 24585,
+	"nom": "MARTINEZ MOLINA, Victor",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 24643,
+	"nom": "COUSO FIGOLS, Yago",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24673,
+	"nom": "MAIO, Tomas Eduardo",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 24687,
+	"nom": "LOPEZ BERMUDEZ, Maria Alexandra",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 24699,
+	"nom": "GARCIA CANO, Irene",
+	"traxs": [
+		"RMN (sala radiolegs)",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24705,
+	"nom": "OLEART MERCE, Carla",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 24725,
+	"nom": "GASTON DAVIA, Manuel",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 24731,
+	"nom": "MORALES GARCIA, Alba",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 24745,
+	"nom": "FERNANDEZ ZARAGOZA, Raul",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 24747,
+	"nom": "CAVIEDES, Nora",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24761,
+	"nom": "POZO GUERRERO, Hector",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24767,
+	"nom": "CORTES ANDRES, Sonia",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 24775,
+	"nom": "LORIENTE GORDILLO, Oriol",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 24779,
+	"nom": "DE SOUZA, Glaucio Fabiano",
+	"traxs": [
+	]
+},
+{
+	"numero": 24791,
+	"nom": "ccollqque vargas, Melisa katherine",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24813,
+	"nom": "Almirall Arriero, Laura",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24827,
+	"nom": "Rodriguez Ortega. Isabel",
+	"traxs": [
+		"Farmacia",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24839,
+	"nom": "Escobar Hernandez, Sonia",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24845,
+	"nom": "SANCHEZ TORRES, Tatiana",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 24873,
+	"nom": "Litardo Zamora, Yomara Zobeida",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 24931,
+	"nom": "RUEDA BRENES, Estela",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 24943,
+	"nom": "Roch, Nuria",
+	"traxs": [
+		"Manteniment",
+		"Parking Bicicletes",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 25095,
+	"nom": "RANGEL MORA, Alba",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 25105,
+	"nom": "FARRE ANTEQUERA, Sara",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25107,
+	"nom": "CRUZ AVILA, Maria",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Farmacia"
+	]
+},
+{
+	"numero": 25111,
+	"nom": "VILAR RIBO, Laura",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 25129,
+	"nom": "ESTRELA ORTEGA, Carles",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25131,
+	"nom": "GUARDIOLA GUILLEN, Susana",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25151,
+	"nom": "SANCHEZ LIMON, Abel Pablo",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25157,
+	"nom": "MATEO SOTO, M. de las Nieves",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25159,
+	"nom": "Karen Joy Caberto Arce",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25189,
+	"nom": "ARTEHORTUA ISAZA, Veronica",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25203,
+	"nom": "FA RODRIGUEZ, Cristina",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 25275,
+	"nom": "MURCIA GAONA, Ingrid",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 25283,
+	"nom": "GONZALEZ DIONISIO, Cristina Moraima",
+	"traxs": [
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 25313,
+	"nom": "Natera Cisneros, Luis Gerardo",
+	"traxs": [
+		"Quirofan",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 25343,
+	"nom": "Quisiyupanqui Ascate, Kathy Carol",
+	"traxs": [
+		"Vestuari femeni",
+		"Gran Hermano",
+		"RMN (sala radiolegs)"
+	]
+},
+{
+	"numero": 25371,
+	"nom": "SAEZ ALEMANY, Maria",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25387,
+	"nom": "BANDA MORUNO, Yolanda",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25397,
+	"nom": "Rodriguez Bascone, Karla",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 25409,
+	"nom": "GOMEZ HUGUET, Daniel",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25419,
+	"nom": "NAVARRO RENALIAS, Guillem",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25421,
+	"nom": "SBERTOLI VALLS, Oscar",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan",
+		"Histories Cliniques",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25433,
+	"nom": "GONZALEZ LEON, Estefania",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25435,
+	"nom": "CAÑETE CASTARNADO, Evelin",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25441,
+	"nom": "ABELLAN PORTA, Eric",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25443,
+	"nom": "ARQUILLO RAPOSO, Maria",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25481,
+	"nom": "TIRADO SANTIN, Elisenda",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25521,
+	"nom": "HERRERA, Carla",
+	"traxs": [
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25531,
+	"nom": "MOLLON, Laia",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25557,
+	"nom": "IGLESIAS JARDI, Gerard",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25595,
+	"nom": "GUIRAO CANO, Lluis",
+	"traxs": [
+		"Vestuari masculi",
+		"Piscina RHB",
+		"Gran Hermano",
+		"Sala reunions (planta -2)",
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25613,
+	"nom": "LUGO SANCHEZ-REDONDO, Virginia",
+	"traxs": [
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25679,
+	"nom": "Lasarte Escalante, Emilia",
+	"traxs": [
+		"Quirofan",
+		"Vestuari femeni",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25681,
+	"nom": "GARCIA PELAEZ. Milagros",
+	"traxs": [
+		"Farmacia",
+		"Vestuari femeni",
+		"Sala reunions (planta -2)"
+	]
+},
+{
+	"numero": 25747,
+	"nom": "Yañez Siller, Federico Abraham",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 25793,
+	"nom": "CASANOVA GONGORA, Edward Jose",
+	"traxs": [
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 25807,
+	"nom": "GARCIA DE LA TORRE, Veronica",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 25813,
+	"nom": "RANGEL CEDEÑO, Alfonso Enrique",
+	"traxs": [
+		"Gran Hermano",
+		"Quirofan"
+	]
+},
+{
+	"numero": 25827,
+	"nom": "FERNANDEZ GIL, Eloi",
+	"traxs": [
+		"Piscina RHB"
+	]
+},
+{
+	"numero": 25873,
+	"nom": "CARRICONDO PEREZ, Juan Jose",
+	"traxs": [
+		"Esterilitzacio",
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 25901,
+	"nom": "PEREZ CHICA, Eric",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 26035,
+	"nom": "Vazquez Sanchez, Angel",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 26113,
+	"nom": "Hermoso Garcia, Alba",
+	"traxs": [
+		"Vestuari femeni",
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 26201,
+	"nom": "FELIPE GUTIERREZ, M. Teresa",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 26219,
+	"nom": "RIFE, Eloi",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 26221,
+	"nom": "DE LA CHICA BOLAÑOS, Sergio",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 26239,
+	"nom": "ORTEGA TAPIA, Carmen",
+	"traxs": [
+		"Vestuari femeni",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 26251,
+	"nom": "MARTINEZ SIMON, Carlos",
+	"traxs": [
+		"UCA"
+	]
+},
+{
+	"numero": 26271,
+	"nom": "SAMITIER PASTOR, Carmen Beatriz",
+	"traxs": [
+		"Piscina RHB",
+		"Esterilitzacio",
+		"Gran Hermano",
+		"Quirofan",
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 26303,
+	"nom": "GARCIA TOMAS, Jenny Amelia",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan",
+		"Vestuari femeni",
+		"Gran Hermano"
+	]
+},
+{
+	"numero": 26335,
+	"nom": "SARRI RIVALTA, Claudia",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 26343,
+	"nom": "Fort Salabert, Marc",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 26353,
+	"nom": "CRESPO ACACIO, Lorena",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 26391,
+	"nom": "MAS JANE, ARNAU",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 26465,
+	"nom": "GALLARDO ESPINO, Lidia",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 26589,
+	"nom": "Andres Muñoz, Hugo",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 26809,
+	"nom": "BENAVIDES COTRINA, Richard",
+	"traxs": [
+		"Gran Hermano",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 26817,
+	"nom": "PARADELL MORA, Enrique",
+	"traxs": [
+		"Histories Cliniques"
+	]
+},
+{
+	"numero": 26845,
+	"nom": "CARMONA LATORRE, Anna",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 26881,
+	"nom": "VIDAL AGUAYO, Cynathia",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80068,
+	"nom": "morera abad, Jose Ricardo",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80209,
+	"nom": "PARDO NAVARRO, ANGELS",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80235,
+	"nom": "SABATER RECOLONS, JOAQUIN",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 80256,
+	"nom": "SERAROLS RAMSAY, laura",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80285,
+	"nom": "SALVADOR TARRASON, MANUEL",
+	"traxs": [
+		"Radiologia",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 80407,
+	"nom": "GARRIDO PEREZ, SANTIAGO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 80417,
+	"nom": "ORTELLS NEBOT, PERE",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80418,
+	"nom": "PEREZ MARTIN, ANA ISABEL",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 80422,
+	"nom": "GARCIA ROBLES, ANA",
+	"traxs": [
+		"Vestuari femeni"
+	]
+},
+{
+	"numero": 80428,
+	"nom": "GRACIA SOLSONA, Josep Antoni",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80440,
+	"nom": "REBOLLO BARRACHINA, ALVARO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 80469,
+	"nom": "SOLSONA ESPIN, SANTIAGO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 80470,
+	"nom": "TAPIA VELASQUEZ, VICTOR HUGO",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 80492,
+	"nom": "Delgado Castellvi, Joaquim",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80557,
+	"nom": "RODRIGUEZ FUSTER, Alberto",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80601,
+	"nom": "MARTIN NALDA, Sara",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80640,
+	"nom": "rodriguez lagunas, Francisco Javier",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80647,
+	"nom": "CANO GARCIA, GABRIEL",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 80662,
+	"nom": "GOÑI FONCILLAS, Francisco Javier",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80663,
+	"nom": "BALAGUE SOLER, Oscar",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80664,
+	"nom": "ARGUEDAS PASTOR, F. Antonio",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80665,
+	"nom": "BOTA CARBE, jordi",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80666,
+	"nom": "FARRANDO MARTINEZ, Jordi",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80667,
+	"nom": "GUARRO MIRALLES, merce",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80668,
+	"nom": "HERNECKI, Jaroslaw",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80669,
+	"nom": "IRIBARNE FERRER, Yolanda",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80670,
+	"nom": "IZQUIETA DUQUE, napoleon",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80671,
+	"nom": "manelli, Alfredo",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80672,
+	"nom": "MONDELO MONDELO, Fco. Javier",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80673,
+	"nom": "PRAT BARTOMEU, Joan",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80674,
+	"nom": "TORRES BLANCH, jesus",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80676,
+	"nom": "MONTEHERMOSO, Alfredo",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80678,
+	"nom": "STOYANOV, Vladimir",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80680,
+	"nom": "MAZZARELLA, Stefania",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80693,
+	"nom": "UBIA SAEZ, Sandra",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80728,
+	"nom": "DOLZ JORDI, Carles",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80772,
+	"nom": "Günther Kruger, Kurt",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80795,
+	"nom": "khaouly Alonso, Saideh",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80807,
+	"nom": "Giordanengo, Maurizio",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80808,
+	"nom": "Disstefano, Laura",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80842,
+	"nom": "Ferrer M.ndez, Antonio",
+	"traxs": [
+		"Magatzem Hospital"
+	]
+},
+{
+	"numero": 80856,
+	"nom": "RUIZ VARGAS, Arturo",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80858,
+	"nom": "ROMEU CERRLLO, Gemma",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80873,
+	"nom": "HAJJAR SESE, David",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80876,
+	"nom": "BANEGAS ARGOTA, Sebastian",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80878,
+	"nom": "REYES VARGAS, PEDRO JAVIER",
+	"traxs": [
+	]
+},
+{
+	"numero": 80941,
+	"nom": "LOZANO PABLO, Alberto",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 80945,
+	"nom": "CASTRO SUAREZ, Gabriela",
+	"traxs": [
+	]
+},
+{
+	"numero": 80960,
+	"nom": "ALTABA, Mar",
+	"traxs": [
+	]
+},
+{
+	"numero": 81071,
+	"nom": "Gomez Juan, Rosa M.",
+	"traxs": [
+		"Quirofan",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 81073,
+	"nom": "del Pilar Martinez Maureso, Marisa",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81083,
+	"nom": "BLANCH, Esther",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81091,
+	"nom": "CHAVERO GARCIA, Laura",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81104,
+	"nom": "CORREA VAZQUEZ, Eva Alicia",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81110,
+	"nom": "SOTERAS MENCHON,",
+	"traxs": [
+	]
+},
+{
+	"numero": 81153,
+	"nom": "HIGUERAS LOMA, Dalila Olivia",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81176,
+	"nom": "GIL PERELLO, Maria",
+	"traxs": [
+	]
+},
+{
+	"numero": 81180,
+	"nom": "FERNANDEZ BARRANCO, Alicia",
+	"traxs": [
+	]
+},
+{
+	"numero": 81208,
+	"nom": "PUCHE PARERA, Maria",
+	"traxs": [
+	]
+},
+{
+	"numero": 81232,
+	"nom": "BARRIOS SANCHEZ, PEDRO",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 81233,
+	"nom": "DOMINGUEZ RODRIGUEZ, JOSE RAMON",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 81237,
+	"nom": "HOSTA MATEU, VICTOR",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 81239,
+	"nom": "MAS JOVE, JORGE",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 81241,
+	"nom": "MOMPART GARCIA, Sergi",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 81242,
+	"nom": "ARIMANY GONZALEZ, Patricia",
+	"traxs": [
+	]
+},
+{
+	"numero": 81243,
+	"nom": "PONCE DE LEON ROCA, JAVIER",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 81244,
+	"nom": "SERRA AMENGUAL, Sebastian",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81245,
+	"nom": "VILLANUEVA LEAL, CARLOS",
+	"traxs": [
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 81249,
+	"nom": "FERREIRA MONTENEGRO, BARTOLOME",
+	"traxs": [
+		"Vestuari masculi",
+		"Quirofan"
+	]
+},
+{
+	"numero": 81258,
+	"nom": "ANDRES FUENTES, Marc",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81295,
+	"nom": "SEGOVIA MALDONADO, Emilio Jose",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81310,
+	"nom": "RODRIGUEZ ROIZ, Juan Miguel",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81605,
+	"nom": "de Paz Rubio, Pilar",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81646,
+	"nom": "ZEVALLOS SALCEDO, Arturo",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81654,
+	"nom": "FABREGA RECASENS,  Jordi",
+	"traxs": [
+		"Quirofan"
+	]
+},
+{
+	"numero": 81656,
+	"nom": "VELASQUEZ ESCANDON, Cesar",
+	"traxs": [
+		"Quirofan",
+		"Vestuari masculi"
+	]
+},
+{
+	"numero": 99994,
+	"nom": "ISS COCINA/CAFETERIA",
+	"traxs": [
+		"Esterilitzacio",
+		"Quirofan"
+	]
+},
+{
+	"numero": 99995,
+	"nom": "PEREZ LEBRON, Antonio",
+	"traxs": [
+		"Magatzem Hospital",
+		"Histories Cliniques",
+		"Esterilitzacio"
+	]
+},
+{
+	"numero": 99996,
+	"nom": "ISS portes RFC",
+	"traxs": [
+		"Residuos"
+	]
+},
+{
+	"numero": 99997,
+	"nom": "ISS personal",
+	"traxs": [
+		"Vestuari femeni",
+		"Residuos",
+		"Quirofan",
+		"Esterilitzacio",
+		"Vestuari masculi",
+	]
+}
+]
