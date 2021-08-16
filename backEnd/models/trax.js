@@ -22,8 +22,12 @@ const traxSchema = mongoose.Schema({
 		]
 */
 	},
-	carpeta: String
-})
+	carpeta: String,
+	model: String,
+	ns: String,
+	connexio: String,
+	ID: String
+}, {collection: "traxes"})
 
 
 module.exports = mongoose.model("trax", traxSchema)

@@ -5,9 +5,17 @@
           <div class="text-h6">Ubicació</div>
         </q-card-section>
 
-        <q-card-section>
-          <q-input type="text" autofocus label="Lloc" v-model="lloc_" />
-          <q-input type="text" label="Carpeta" v-model="carpeta_" />
+        <q-card-section class="row q-gutter-x-xl">
+          <div class="column">
+						<q-input type="text" autofocus label="Lloc" v-model="lloc_" />
+						<q-input type="text" label="Carpeta" v-model="carpeta_" />
+					</div>
+          <div class="column">
+						<q-input type="text" label="Model" v-model="model_" />
+						<q-input type="text" label="NSerie" v-model="ns_" />
+						<q-input type="text" label="Connexio" v-model="connexio_" />
+						<q-input type="text" label="ID" v-model="ID_" />
+					</div>
 
          	<!-- <q-input dense v-model="address" autofocus @keyup.enter="prompt = false" /> -->
         </q-card-section>
@@ -46,13 +54,21 @@ export default {
   	if (this.objTraxPag != null) {
       this.lloc_ = this.objTraxPag.lloc;
       this.carpeta_ = this.objTraxPag.carpeta;
+      this.model_ = this.objTraxPag.model;
+      this.ns_ = this.objTraxPag.ns;
+      this.connexio_ = this.objTraxPag.connexio;
+      this.ID_ = this.objTraxPag.ID;
   	}
   },
 
   data () {
     return {
     	lloc_: null,
-      carpeta_: null
+      carpeta_: null,
+			model_: null,
+			ns_: null,
+			connexio_: null,
+			ID_: null
     }
   },
 
@@ -68,7 +84,11 @@ export default {
 
       let objTrax = {
         lloc: this.lloc_,
-        carpeta: this.carpeta_
+        carpeta: this.carpeta_,
+				model: this.model_,
+				ns: this.ns_,
+				connexio: this.connexio_,
+				ID: this.ID_
       };
 
       

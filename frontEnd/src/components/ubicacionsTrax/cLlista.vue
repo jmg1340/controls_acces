@@ -31,6 +31,22 @@
           {{ props.row.carpeta }}
         </q-td>
 
+        <q-td key="model" :props="props">
+          {{ props.row.model }}
+        </q-td>
+
+        <q-td key="ns" :props="props">
+          {{ props.row.ns }}
+        </q-td>
+
+        <q-td key="connexio" :props="props">
+          {{ props.row.connexio }}
+        </q-td>
+
+        <q-td key="ID" :props="props">
+          {{ props.row.ID }}
+        </q-td>
+
 
         <q-td key="id" :props="props" >
           <q-btn size="sm" round dense color="warning" icon="create" @click="obrirFormulariEdicioTrax(props.row)" class="q-mr-md" />
@@ -83,6 +99,46 @@ export default {
           label: 'CARPETA',
           align: 'Left',
           field: 'carpeta',
+          sortable: true,
+          //classes: 'my-class',
+          style: 'width: 50px'
+        },
+        {
+          name: 'model',
+          required: true,
+          label: 'MODEL',
+          align: 'Left',
+          field: 'model',
+          sortable: true,
+          //classes: 'my-class',
+          style: 'width: 50px'
+        },
+        {
+          name: 'ns',
+          required: true,
+          label: 'NS',
+          align: 'Left',
+          field: 'ns',
+          sortable: true,
+          //classes: 'my-class',
+          style: 'width: 50px'
+        },
+        {
+          name: 'connexio',
+          required: true,
+          label: 'CONNEXIO',
+          align: 'Left',
+          field: 'connexio',
+          sortable: true,
+          //classes: 'my-class',
+          style: 'width: 50px'
+        },
+        {
+          name: 'ID',
+          required: true,
+          label: 'ID',
+          align: 'Left',
+          field: 'ID',
           sortable: true,
           //classes: 'my-class',
           style: 'width: 50px'
