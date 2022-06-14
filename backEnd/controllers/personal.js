@@ -80,7 +80,7 @@ function getPersonalSegonsTrax(req, res){
 	console.log("req.params.ubicacio: " + req.params.ubicacio);
 	
 	let objCriteri;
-	if (req.params.trax == "Tothom (NO afegir personal)") {
+	if (req.params.trax == "Tots") {
 		objCriteri = {}
 	} else {
 		objCriteri = {traxs: req.params.trax}

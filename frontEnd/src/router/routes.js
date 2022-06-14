@@ -20,6 +20,13 @@ const routes = [
     children: [
       { path: '', component: () => import('pages/pTrax.vue') }
     ]
+  },
+  {
+    path: '/traxTots',
+    component: () => import('layouts/MyLayout.vue'),
+    children: [
+      { path: '', component: () => import('pages/pTrax_TotsElsUsuaris.vue') }
+    ]
   }
 ]
 

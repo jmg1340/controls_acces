@@ -39,6 +39,9 @@
         <q-item to="/trax">
           <q-item-label>TRAX</q-item-label>
         </q-item>
+        <q-item to="/traxTots">
+          <q-item-label>TRAX - Tots</q-item-label>
+        </q-item>
 
       </q-list>
     </q-drawer>
